@@ -18,5 +18,9 @@ concepts like :
     </ul>
 </div>
 <div>
+    <div align="center">
+        <img width="600" alt="image"  src="https://user-images.githubusercontent.com/74001727/210156744-7ee05528-75ad-4ef6-b9d3-e2e4fabc347c.png">
+    </div> 
     you can find the live site here:https://sangeetha-jula-todolist.netlify.app/
+    
 </div>
